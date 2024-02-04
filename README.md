@@ -1,8 +1,6 @@
 <h1 align="left"> Hello World! I'm Celeste! </h1>
-<p align="left"> I am an experienced <strong color="blue" > Full Stack Web Developer </strong> currently working on several personal projects to further improve my skillset! </p>
+<p align="left"> I am an experienced Full Stack Web Developer currently working on several personal projects to further improve my skillset! </p>
 <br>
-
-<span style="color:red"> test </span>
 
 ## Featured Toolset
 <div align="left">

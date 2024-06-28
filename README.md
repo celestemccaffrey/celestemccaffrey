@@ -2,7 +2,7 @@
 <p align="left"> I am an experienced Full Stack Web Developer currently working on several personal projects to further improve my skillset! </p>
 <br>
 
-## Featured Toolsets
+## Featured Toolset
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
